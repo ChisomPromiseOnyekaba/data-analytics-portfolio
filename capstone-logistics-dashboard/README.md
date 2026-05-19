@@ -27,7 +27,7 @@ An executive-level summary of the company's overall financial and operational he
 
 **Visuals:** Revenue trend (2022–2024), Revenue by Load Type (Dry Van vs Refrigerated), Top 10 Customers by Revenue, Revenue by Booking Type (Dedicated, Spot, Contract)
 
-![Logistics Performance Dashboard](assets/logistics-performance.png)
+![Logistics Performance Dashboard](assets/capstone-logistics-dashboard/capstone-logistics-dashboard/assets/logistics-performance.png)
 
 ---
 
