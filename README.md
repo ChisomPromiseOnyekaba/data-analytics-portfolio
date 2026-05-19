@@ -31,12 +31,16 @@ I combine technical skills with business thinking — whether it's building dash
 
 ## 📂 Projects
 
-### 1. 📊 Financial Performance Dashboard
-> **Tools:** Power BI | **Domain:** Financial Analytics
+### 1. 🚛 Logistics Performance Analytics Dashboard
+> **Tools:** Power BI | **Domain:** Logistics & Financial Analytics
 
-An executive-level dashboard tracking revenue trends, profit margins, and KPIs with year-over-year comparisons. Built to support strategic decision-making.
+A comprehensive 5-page Power BI dashboard covering 3 years of logistics data (2022–2024). Includes executive overview, fleet performance, driver analysis, fuel cost breakdown, and safety compliance tracking.
 
-🔗 [View Project](./financial-dashboard/)
+- 💰 $298.6M Total Revenue | 66% Profit Margin
+- 🚛 92 Active Trucks | 83% Fleet Utilization
+- 👨‍✈️ 124 Drivers | 85K Total Trips
+
+🔗 [View Project](./capstone-logistics-dashboard/)
 
 ---
 
