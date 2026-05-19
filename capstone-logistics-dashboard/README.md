@@ -27,7 +27,7 @@ An executive-level summary of the company's overall financial and operational he
 
 **Visuals:** Revenue trend (2022–2024), Revenue by Load Type (Dry Van vs Refrigerated), Top 10 Customers by Revenue, Revenue by Booking Type (Dedicated, Spot, Contract)
 
-![Logistics Performance Dashboard](assets/capstone-logistics-dashboard/capstone-logistics-dashboard/assets/logistics-performance.png)
+![Logistics Performance Dashboard](capstone-logistics-dashboard/assets/logistics-performance.png)
 
 ---
 
@@ -43,7 +43,7 @@ Deep dive into fleet efficiency, maintenance spending, and truck availability.
 
 **Visuals:** Fleet utilization rate over time, Downtime hours by truck make (Volvo leads at 12.3K hours), Maintenance cost by type (Preventive, Repair, Tire, Brake, Engine, Transmission), Fleet status breakdown (76.7% Active)
 
-![Fleet Performance Dashboard](assets/fleet-performance.png)
+![Fleet Performance Dashboard](capstone-logistics-dashboard/assets/fleet-performance.png)
 
 ---
 
@@ -61,7 +61,7 @@ Analysis of individual driver performance across revenue, fuel efficiency, and d
 
 **Key Insight:** On-time delivery rate of 45% is significantly below the 80% target — a critical operational gap requiring attention.
 
-![Driver Performance Dashboard](assets/driver-performance.png)
+![Driver Performance Dashboard](capstone-logistics-dashboard/assets/driver-performance.png)
 
 ---
 
@@ -79,7 +79,7 @@ Detailed breakdown of fuel expenditure, efficiency trends, and geographic cost d
 
 **Key Insight:** Texas and Tennessee account for the highest fuel costs — route optimization in these states could yield significant savings.
 
-![Fuel Analysis Dashboard](assets/fuel-analysis.png)
+![Fuel Analysis Dashboard](capstone-logistics-dashboard/assets/fuel-analysis.png)
 
 ---
 
@@ -97,7 +97,7 @@ Tracks safety incidents, claim amounts, and driver compliance across the fleet.
 
 **Key Insight:** DOT Violations are the #1 incident type — targeted compliance training could reduce claims and liability significantly.
 
-![Safety & Compliance Dashboard](assets/safety-compliance.png)
+![Safety & Compliance Dashboard](capstone-logistics-dashboard/assets/safety-compliance.png)
 
 ---
 
